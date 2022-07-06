@@ -1,4 +1,4 @@
- Holy Grail Application 
+ # Holy Grail Application 
 
  This is a project created for the Full Stack Development course with the purpose of understanding the ideal web page layout. We were able to build a simple full stack application with a Redis database.
 
